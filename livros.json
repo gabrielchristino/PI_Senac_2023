@@ -1,0 +1,44 @@
+[
+    {
+        "id": "20230401",
+        "bookName": "o roubo da coroa de berilos",
+        "bookPages": "96",
+        "school": "escola 1",
+        "library": "biblioteca 1"
+    },
+    {
+        "id": "20230402",
+        "bookName": "o signo dos quatro",
+        "bookPages": "94",
+        "school": "escola 1",
+        "library": "biblioteca 1"
+    },
+    {
+        "id": "20230403",
+        "bookName": "o cão dos baskervilles",
+        "bookPages": "60",
+        "school": "escola 2",
+        "library": "biblioteca 1"
+    },
+    {
+        "id": "20230404",
+        "bookName": "um escândalo na boêmia",
+        "bookPages": "101",
+        "school": "escola 3",
+        "library": "biblioteca 1"
+    },
+    {
+        "id": "20230405",
+        "bookName": "um estudo em vermelho",
+        "bookPages": "115",
+        "school": "escola 4",
+        "library": "biblioteca 2"
+    },
+    {
+        "id": "20230406",
+        "bookName": "a liga dos cabeças vermelhas",
+        "bookPages": "94",
+        "school": "escola 5",
+        "library": "biblioteca 3"
+    }
+]

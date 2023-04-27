@@ -1,0 +1,44 @@
+[
+    {
+        "id": "20230401",
+        "name": "Gabriel Eugênio",
+        "userName": "gabrieleugenio",
+        "school": "Escola 1",
+        "profile": "Aluno"
+    },
+    {
+        "id": "20230401",
+        "name": "Gabriel Christino",
+        "userName": "gabrielchristino",
+        "school": "Escola 2",
+        "profile": "Aluno"
+    },
+    {
+        "id": "20230401",
+        "name": "Fabricio Macedo",
+        "userName": "fabriciomacedo",
+        "school": "Escola 3",
+        "profile": "Aluno"
+    },
+    {
+        "id": "20230401",
+        "name": "Daniel dos Anjos",
+        "userName": "danielanjos",
+        "school": "Escola 4",
+        "profile": "Aluno"
+    },
+    {
+        "id": "20230401",
+        "name": "Aïcha Abibatou",
+        "userName": "aichaabibatou",
+        "school": "Escola 5",
+        "profile": "Aluno"
+    },
+    {
+        "id": "20230402",
+        "name": "Administrador",
+        "userName": "administrador",
+        "school": "Central",
+        "profile": "Administrador"
+    }
+]
