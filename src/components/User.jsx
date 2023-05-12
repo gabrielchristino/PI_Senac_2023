@@ -72,7 +72,7 @@ const User = () => {
       <body>
         <div>
           <nav className="top-nav">
-            <div id="top-left"><a href="./book"><h1>Biblioteca inter-escolar</h1></a></div>
+            <div><a href="./book"><h1>Biblioteca inter-escolar</h1></a></div>
             <ul>
               <li><a href="./book">Livros</a></li>
               <li><a href="./user">Usuários</a></li>

@@ -54,6 +54,7 @@ td:nth-child(4) {
   height: 100%;
   overflow: auto;
   background-color: rgba(0, 0, 0, 0.4);
+  cursor: pointer;
 }
 
 .modal-content {
@@ -189,7 +190,7 @@ select {
 
 footer {
   display: flex;
-  justify-content: end;
+  justify-content: flex-end;
   width: 100%;
 }
 
@@ -199,4 +200,8 @@ footer p {
 
 .header-login {
   width: 100%;
+}
+
+#pointer {
+  cursor: pointer;
 }

@@ -32,22 +32,18 @@ const Login = () => {
 
     return (
         <div>
-            <head>
                 <meta charSet="UTF-8" />
-                <title>Login</title>
-            </head>
-
-            <body>
-                <h1 id="top-left" onClick={navigateToHome}>Biblioteca inter-escolar</h1>
+                <title>Login</title>         
+                <h1 id="pointer" onClick={navigateToHome}>Biblioteca inter-escolar</h1>
                 <br></br>
-                <div class="header-login">
+                <div className="header-login">
                     <h1>Gestor de Livros</h1>
                 </div>
                 <form id="login-form" method="post">
-                    <label for="username">Usuário(a):</label>
+                    <label htmlFor="username">Usuário(a):</label>
                     <input type="text" id="username" name="username" onChange={(e) => setuserName(e.target.value)} value={userName} />
 
-                    <label for="password">Senha:</label>
+                    <label htmlFor="password">Senha:</label>
                     <input type="password" id="password" name="password" />
 
                     {errorMessage && (
@@ -57,9 +53,7 @@ const Login = () => {
                     <input type="submit" value="Entrar" onClick={carregaUsuarios} />
                     <input type="button" value="Ainda não sou cadastrado(a)" id="register" />
                 </form>
-                <footer><p>© Biblioteca inter-escolar</p></footer>
-
-            </body>
+                <footer><p>© Biblioteca inter-escolar</p></footer>          
             <Outlet />
         </div>
     );
